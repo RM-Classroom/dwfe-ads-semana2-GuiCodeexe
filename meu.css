@@ -1,0 +1,20 @@
+h1{
+    background-color: rgba(83, 140, 167, 0.548);
+    color: aliceblue;
+}
+
+body{
+    background-color: #00c3ff17;
+}
+
+img{
+width: 400;
+height: 400;
+}
+
+#titulo_secundario{
+
+    background-color: rgba(0, 0, 0, 0.363);
+    color: rgb(0, 0, 255);
+
+}
